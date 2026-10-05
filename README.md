@@ -24,15 +24,15 @@ Languages
 </p>
 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite" />{=html}
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite" />
 </p>
 Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />{=html}
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 </p>
 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,docker" />{=html}
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,docker" />
 </p>
 🚀 Featured Projects
 🎓 CodeNest --- Full-Stack EdTech Platform
@@ -93,8 +93,8 @@ I try to keep these principles in mind while building applications:
 - Cloud & Deployment
 📊 GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ansh-dev1224&show_icons=true&hide_border=true&rank_icon=github" height="165" />{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-dev1224&layout=compact&hide_border=true" height="165" />{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=ansh-dev1224&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-dev1224&layout=compact&hide_border=true" height="165" />
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ansh-dev1224&hide_border=true" />
@@ -103,7 +103,7 @@ I try to keep these principles in mind while building applications:
 <p>
 <a href="https://github.com/ansh-dev1224">
 <img src="https://img.shields.io/badge/GitHub-Ansh%20Dwivedi-181717?style=for-the-badge&logo=github" />
-</a>{=html}
+</a>
 </p>
 💡 A little more about how I build
 I believe good software is not only about making a feature work.
