@@ -97,12 +97,12 @@ I try to keep these principles in mind while building applications:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-dev1224&layout=compact&hide_border=true" height="165" />{=html}
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ansh-dev1224&hide_border=true" />{=html}
+<img src="https://streak-stats.demolab.com?user=ansh-dev1224&hide_border=true" />
 </p>
 🤝 Let's Connect
 <p>
-<a href="https://github.com/ansh-dev1224">{=html}
-<img src="https://img.shields.io/badge/GitHub-Ansh%20Dwivedi-181717?style=for-the-badge&logo=github" />{=html}
+<a href="https://github.com/ansh-dev1224">
+<img src="https://img.shields.io/badge/GitHub-Ansh%20Dwivedi-181717?style=for-the-badge&logo=github" />
 </a>{=html}
 </p>
 💡 A little more about how I build
