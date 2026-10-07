@@ -7,6 +7,7 @@ real engineering problems.
 I focus on writing clean, maintainable code, understanding how
 systems work end-to-end, and continuously improving my problem-solving
 and backend development skills.
+
 👨‍💻 About Me
 - 🔭 Currently building and improving full-stack web applications
 - 🌱 Strengthening my skills in Backend Development, System Design
@@ -35,6 +36,7 @@ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,docker" />
 </p>
 🚀 Featured Projects
+
 🎓 CodeNest --- Full-Stack EdTech Platform
 A full-stack learning platform connecting students, instructors and
 administrators.
@@ -43,6 +45,7 @@ RESTful APIs - Course creation and management - MongoDB-based data
 persistence - Razorpay payment integration - Cloudinary media
 management - React + Redux Toolkit frontend
 🔗 Repository: CodeNest
+
 🎨 Artist Shop --- Art Marketplace
 A modern art marketplace where artists can showcase their work and
 collectors can discover artwork.
@@ -50,6 +53,8 @@ Highlights: - React + Vite frontend - Supabase authentication -
 PostgreSQL database - Row Level Security - Supabase Storage - Artist and
 collector workflows - Responsive UI - Vercel deployment
 🔗 Repository: Artist
+
+
 Shop
 🧩 What I Work With
 Frontend
@@ -65,8 +70,12 @@ MongoDB / SQL
 External Services
    ├── Payments
    └── Media Storage
+
+   
 I particularly enjoy working at the boundary between frontend
 experience and backend architecture.
+
+
 🔐 Engineering Principles
 I try to keep these principles in mind while building applications:
 - Security first --- never trust the client for authorization or
@@ -83,6 +92,8 @@ I try to keep these principles in mind while building applications:
   variables.
 - Optimize based on evidence --- measure before adding unnecessary
   complexity.
+
+  
 📚 Currently Learning
 - Advanced Backend Development
 - Data Structures & Algorithms
@@ -91,6 +102,7 @@ I try to keep these principles in mind while building applications:
 - API Security
 - Scalable Application Architecture
 - Cloud & Deployment
+- 
 📊 GitHub
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ansh-dev1224&show_icons=true&hide_border=true&rank_icon=github" height="165" />
